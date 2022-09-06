@@ -22,6 +22,7 @@ To control outputs:
   bool state = piface.Out0.State;
 ```
 Available outputs are *Out0* to *Out7*
+ 
 *Relay0* is an alias for *Out0*, *Relay1* is an alias for *Out1*.
 
 To subscribe an input change:
